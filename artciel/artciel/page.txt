@@ -1,0 +1,1147 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><title>
+	风格搭配_风格搭配案例搭配技巧方式-前店后厂
+</title><meta name="keywords" content="风格搭配"/><meta name="description" content="2016前店后厂风格搭配案例搭配技巧方式，找对自己的风格秀出自己的Style！"/><link type="text/css" rel="Stylesheet" href="/skin2015/css/fontello.css" /><link type="text/css" rel="Stylesheet" href="/skin2015/css/common.css" /><link type="text/css" rel="Stylesheet" href="/skin2014/css/newslist.css" /><link type="text/css" rel="Stylesheet" href="/article/css/qh-news.css" />
+    <script type="text/javascript" src="/Skin2015/js/jquery.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            menuonmouse();
+        });
+        var CategoryId = '290000';
+        
+        //alert(document.URL);
+    </script>
+    <script src="/Article/ajax/JS_articleCommon.js" type="text/javascript"></script>
+</head>
+<body class="qh-news-body">
+<input name="pageURL" type="hidden" id="pageURL" />
+<!-- header -->
+
+<link href="/Skin2014/css/base.css" rel="stylesheet" type="text/css" />
+<link href="/skin2015/css/fontello.css?0523" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="/skin2018/css/base.css" />
+<link href="/Skin2015/css/common.css?072881" rel="stylesheet" type="text/css" />
+<link href="/Skin2014/css/master.css?123333" rel="stylesheet" type="text/css" />
+
+
+
+
+
+<script>
+    if (typeof (window.template) != "function") {
+        document.write("<script src='/js/template.js'><\/script>");
+    }
+    
+</script>
+<div class="SiteNav">
+    <div class="SiteNav-bd layout">
+        <!--登录前-->
+        <ul class="SiteNav-l fl">
+            <li>Hi,欢迎来到前店后厂!</li>
+            <li>请<a rel="nofollow" href="//www.2298.com/Login.aspx"
+                target="_blank"> 登录</a><em class="em">丨</em><a rel="nofollow" href="//www.2298.com/Register/RegShopNew.aspx"
+                    target="_blank">免费注册</a></li>
+            <li>
+                <div class="Meua app-hdown">
+                    <div class="Meua-hd">
+                        <a rel="nofollow" href="/APP/buy.html" target="_blank"><i class="icon-mobile-1"></i>
+                            手机逛前后</a></div>
+                    <div class="Meua-bd">
+                        <div class="app-hdown-buy">
+                            <p>
+                                前后买家</p>
+                            <span class="appdown-buy"></span>
+                        </div>
+                        <div class="app-hdown-sell">
+                            <p>
+                                前后厂家</p>
+                            <span class="appdown-sell"></span>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+        <ul class="SiteNav-r fr">
+            <li>
+                <div class="Meua-hd">
+                    <a href="//www.2298.com/" class="h">前店后厂首页</a></div>
+            </li>
+            <li>
+                <div class="Meua">
+                    <div class="Meua-hd">
+                        <a href="/PublicNew/AccountCenter.aspx" target="_blank" rel="nofollow">我的前后<i class="icon-angle-down"></i></a><em>丨</em></div>
+                    <div class="Meua-bd shadow">
+                        <div class="Mena-bd-panel js-tInfo-r">
+                            <a href="/PublicNew/AccountCenter.aspx?mainFrame=/BuyerNew/OrderList.aspx" target="_blank"
+                                rel="nofollow">已进到的货品</a> <a href="/PublicNew/AccountCenter.aspx?mainFrame=/BuyerNew/OrderList.aspx?orderstatus=1"
+                                    target="_blank" rel="nofollow">等待付款</a> <a href="/PublicNew/AccountCenter.aspx?mainFrame=/BuyerNew/OrderList.aspx?orderstatus=2"
+                                        target="_blank" rel="nofollow">等待卖家发货</a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="js-showSeller">
+                <div class="Meua">
+                    <div class="Meua-hd">
+                        <a href="//www.2298.com/ShoppingCar.html" target="_blank" rel="nofollow"><i
+                            class="icon-shopingcar"></i>进货单&nbsp;<span id="js-nav-shopcarnum">0</span><i class="icon-angle-down"></i></a><em>丨</em></div>
+                    <div class="Meua-bd Meua-bd-car shadow">
+                        <div id="js-nav-shopcar">
+                            <div class="Mena-bd-noGood">
+                                您的进货单还没有货品，赶紧选购吧！</div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li class="js-showSeller">
+                <div class="Meua">
+                    <div class="Meua-hd">
+                        <a href="/PublicNew/MyFavorite.aspx" rel="nofollow"><i class="icon-star"></i>收藏夹<i class="icon-angle-down"></i></a><em>丨</em></div>
+                    <div class="Meua-bd Meua-bd-clt shadow">
+                        <div class="Mena-bd-panel">
+                            <a href="/PublicNew/MyFavorite.aspx" target="_blank" rel="nofollow">收藏的商品</a> <a
+                                href="/PublicNew/MyShopFavorite.aspx" target="_blank" rel="nofollow">收藏的厂家</a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="Meua">
+                    <div class="Meua-hd">
+                        <a href="javascript:void(0)" rel="nofollow">客服服务<i class="icon-angle-down"></i></a><em>丨</em></div>
+                    <div class="Meua-bd Meua-bd-kefu shadow">
+                        <div class="Mena-bd-panel">
+                            <a href="//help.2298.com/2298_buyer" target="_blank" rel="nofollow">买家帮助</a>
+                            <a href="//help.2298.com/2298_seller.html" target="_blank" rel="nofollow">卖家帮助</a>
+                            <a href="//help.2298.com/gy_show-174.html" target="_blank" rel="nofollow">联系客服</a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="Meua">
+                    <div class="Meua-hd">
+                        <a href="//help.2298.com/gy_show-167.html" target="_blank" rel="nofollow">关于我们</a><em>丨</em></div>
+                </div>
+            </li>
+            <li>
+                <div class="Meua">
+                    <div class="Meua-hd">
+                        <a href="javascript:void(0)" rel="nofollow"><i class="icon-menu"></i>网站导航<i class="icon-angle-down"></i></a></div>
+                    <div class="Meua-bd Meua-bd-zhan shadow">
+                        <div class="Meua-bd-zhan-left">
+    <h4 class="Meua-bd-zhan-tit h">
+        商品分类</h4>
+    <div class="Meua-bd-zhan-main">
+        <div class="Meua-bd-zhan-name">
+            <a href="//nvz.2298.com/" target="_blank">女装</a></div>
+        <div class="Meua-bd-zhan-con">
+            <a href="//www.2298.com/category_110800.html" target="_blank">连衣裙</a> <a href="//www.2298.com/category_110500.html"
+                target="_blank">女士衬衫</a> <a href="//www.2298.com/category_110400.html" target="_blank">
+                    女士T恤</a> <a href="//www.2298.com/category_112200.html" target="_blank">小背心</a>
+            <a href="//www.2298.com/category_112300.html" target="_blank">雪纺衫</a> <a href="//www.2298.com/category_110300.html"
+                target="_blank">短外套</a> <a href="//www.2298.com/category_113100.html" target="_blank">
+                    小西装</a> <a href="//www.2298.com/kd95333.html" target="_blank">韩版衬衫</a>
+        </div>
+    </div>
+    <div class="Meua-bd-zhan-main">
+        <div class="Meua-bd-zhan-name">
+            <a href="//nz.2298.com/" target="_blank">男装</a></div>
+        <div class="Meua-bd-zhan-con">
+            <a href="//www.2298.com/category_101300.html" target="_blank">Polo衫</a> <a href="//www.2298.com/category_103700.html"
+                target="_blank">短袖衬衫</a> <a href="//www.2298.com/category_101600.html" target="_blank">
+                    男士T恤</a> <a href="//www.2298.com/category_101100.html" target="_blank">男士卫衣</a>
+            <a href="//www.2298.com/category_101700.html" target="_blank">男士衬衫</a> <a href="//www.2298.com/category_100300.html"
+                target="_blank">长袖T恤</a> <a href="//www.2298.com/category_101800.html" target="_blank">
+                    男士背心</a> <a href="//www.2298.com/kd36204.html" target="_blank">休闲西装</a>
+        </div>
+    </div>
+    <div class="Meua-bd-zhan-main">
+        <div class="Meua-bd-zhan-name">
+            <a href="//www.2298.com/category_180600.html" target="_blank">儿童连衣裙</a></div>
+        <div class="Meua-bd-zhan-con">
+            <a href="//www.2298.com/category_180600.html" target="_blank">儿童连衣裙</a> <a href="//www.2298.com/category_181000.html"
+                target="_blank">儿童T恤</a> <a href="//www.2298.com/category_181200.html" target="_blank">
+                    儿童衬衫</a> <a href="//www.2298.com/category_180900.html" target="_blank">儿童马甲</a>
+            <a href="//www.2298.com/category_180200.html" target="_blank">儿童外套</a> <a href="//www.2298.com/category_100300.html"
+                target="_blank">儿童卫衣</a> <a href="//www.2298.com/category_180300.html" target="_blank">
+                    男士背心</a> <a href="//www.2298.com/kd71788.html" target="_blank">童帽批发</a>
+        </div>
+    </div>
+    <div class="Meua-bd-zhan-main">
+        <div class="Meua-bd-zhan-name">
+            <a href="//www.2298.com/Search_%E5%86%85%E8%A1%A3.html" target="_blank">内衣</a></div>
+        <div class="Meua-bd-zhan-con">
+            <a href="//www.2298.com/category_120500.html" target="_blank">性感内衣</a> <a href="//www.2298.com/category_120400.html"
+                target="_blank">保暖内衣</a> <a href="//www.2298.com/category_120800.html" target="_blank">
+                    文胸</a> <a href="//www.2298.com/category_122600.html" target="_blank">保暖裤</a>
+            <a href="//www.2298.com/category_120300.html" target="_blank">女士睡衣</a> <a href="//www.2298.com/category_122400.html"
+                target="_blank">男士睡衣</a>
+        </div>
+    </div>
+    <div class="Meua-bd-zhan-main">
+        <div class="Meua-bd-zhan-name">
+            <a href="//www.2298.com/Search_%E5%A5%B3%E9%9E%8B.html" target="_blank">女鞋</a></div>
+        <div class="Meua-bd-zhan-con">
+            <a href="//www.2298.com/category_160700.html" target="_blank">凉鞋</a> <a href="//www.2298.com/category_160100.html"
+                target="_blank">单鞋</a> <a href="//www.2298.com/category_161100.html" target="_blank">
+                    凉拖</a> <a href="//www.2298.com/category_160300.html" target="_blank">帆布鞋</a>
+            <a href="//www.2298.com/category_160400.html" target="_blank">坡跟单鞋</a> <a href="//www.2298.com/category_160500.html"
+                target="_blank">豆豆鞋</a> <a href="//www.2298.com/category_161600.html" target="_blank">
+                    高跟鞋</a> <a href="//www.2298.com/category_161400.html" target="_blank">板鞋</a>
+        </div>
+    </div>
+    <div class="Meua-bd-zhan-main">
+        <div class="Meua-bd-zhan-name">
+            <a href="//www.2298.com/Search_%E7%94%B7%E9%9E%8B.html" target="_blank">男鞋</a></div>
+        <div class="Meua-bd-zhan-con">
+            <a href="//www.2298.com/category_150300.html" target="_blank">休闲皮鞋</a> <a href="//www.2298.com/category_151500.html"
+                target="_blank">凉鞋</a> <a href="//www.2298.com/category_151600.html" target="_blank">
+                    凉拖</a> <a href="//www.2298.com/category_150100.html" target="_blank">日常休闲鞋</a>
+            <a href="//www.2298.com/category_150400.html" target="_blank">帆布鞋</a> <a href="//www.2298.com/category_150500.html"
+                target="_blank">高帮鞋</a> <a href="//www.2298.com/category_151000.html" target="_blank">
+                    正装皮鞋</a> <a href="//www.2298.com/category_152500.html" target="_blank">时尚布鞋</a>
+        </div>
+    </div>
+    <div class="Meua-bd-zhan-main">
+        <div class="Meua-bd-zhan-name">
+            <a href="//www.2298.com/xiangbao/" target="_blank">箱包</a></div>
+        <div class="Meua-bd-zhan-con">
+            <a href="//www.2298.com/category_130400.html" target="_blank">流行女包</a> <a href="//www.2298.com/category_130300.html"
+                target="_blank">手提包</a> <a href="//www.2298.com/category_130700.html" target="_blank">
+                    时尚男包</a> <a href="//www.2298.com/category_130100.html" target="_blank">单肩包</a>
+            <a href="//www.2298.com/category_130200.html" target="_blank">斜挎包</a> <a href="//www.2298.com/category_130500.html"
+                target="_blank">背包/双肩包</a> <a href="//www.2298.com/category_130600.html" target="_blank">
+                    帆布包</a> <a href="//www.2298.com/category_131000.html" target="_blank">手拿包</a>
+            <a href="//www.2298.com/category_131100.html" target="_blank">牛皮肩包</a>
+        </div>
+    </div>
+</div>
+<div class="Meua-bd-zhan-right">
+    <div class="Meua-bd-zhan-main">
+        <h4 class="Meua-bd-zhan-name p">
+            咨询</h4>
+        <div class="Meua-bd-zhan-con">
+            <ul>
+                <li><a href="//www.2298.com/APP/index.html" target="_blank">手机逛前后</a></li>
+                <li><a href="//www.2298.com/yifudapei/" target="_blank">服装搭配</a></li>
+                <li><a href="//www.2298.com/yifuxidi/" target="_blank">服装洗涤</a></li>
+                <li><a href="//www.2298.com/wdbk/" target="_blank">问答百科</a></li>
+                <li><a href="//www.2298.com/sitemap.html" target="_blank">前后地图</a></li>
+                <li><a href="//nvz.2298.com/pifashichang/" target="_blank">批发市场</a></li>
+                <li><a href="//bbs.2298.com" target="_blank">前后论坛</a></li>
+				 <li><a href="//www.2298.com/ArticleNew/ArticleIndex.aspx" target="_blank">文章集合</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="Meua-bd-zhan-main">
+        <h4 class="Meua-bd-zhan-name b">
+            服务指南</h4>
+        <div class="Meua-bd-zhan-con">
+            <ul>
+                <li><a href="//help.2298.com" target="_blank">帮助中心</a></li>
+                <li><a href="//www.2298.com/webhtml/guide/jygz.html" target="_blank">交易规则</a></li>
+                <li><a href="//www.2298.com/Article/110697.html" target="_blank">品牌馆入驻</a></li>
+                <li><a href="//help.2298.com/2298_FAQ_show-211.html" target="_blank">注册新用户</a></li>
+                <li><a href="//help.2298.com/2298_seller_list-121-1.html" target="_blank">商品管理</a></li>
+                <li><a href="//help.2298.com/2298_FAQ_show-246.html" target="_blank">展厅设置</a></li>
+                <li><a href="//help.2298.com/2298_FAQ_show-225.html" target="_blank">如何支付</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+<script type="text/html" id="topShopCar">
+<div class="Mena-bd-panel-car">
+                            
+                            <h6>
+                                新加入的产品</h6>
+                            {{each data as pro i}}
+                            <ul class="Mena-bd-goods">
+                                <!--一个ul一个物品-->
+                                
+                                <li><a href="//www.2298.com/Product/{{pro.proID}}.html" title="{{pro.proName}}" target="_blank">
+                                    <img src="//img2.2298.com{{pro.imgUrl}}_40x40.jpg" alt="{{pro.proName}}" /></a></li>
+                                <li>
+                                    <p>
+                                        <a href="//www.2298.com/Product/{{pro.proID}}.html" target="_blank">
+                        {{pro.proName}}</a><span>{{attrpro(pro.proJian,0)}}</span><span>{{attrpro(pro.proJian,1)}}</span></p>
+                                </li>
+            <li class="Mena-bd-gZuo"><em>￥{{pro.price}} x {{pro.proKuan}}</em></li>
+                            </ul>
+                           {{/each}}
+                            
+                            <div class="Mena-bd-gPrice">
+                                <div class="Mena-bd-gLine clearfix">                                    
+                                    <div class="fr">
+                                        共
+                                        {{tKuanNum}}
+                                        款
+                                        {{tJianNum}}
+                                        件                                        
+                                    </div>
+                                    <div class="clear">
+                                    </div>
+                                </div>
+                                <a href="//www.2298.com/ShoppingCar.html" class="btn_orange" target="_blank">查看进货单</a>
+                            </div>
+                        </div>
+</script>
+<script type="text/html" id="topshopCarNo">
+<div class="Mena-bd-panel-car">
+<div class="Mena-bd-gPrice">
+<div class="clearfix">您还未添加新产品</div>
+<a href="//www.2298.com/ShoppingCar.html" class="btn_orange" target="_blank">查看进货单</a>
+</div>
+</div>
+</script>
+<script type="text/html" id="topsystemMessage">
+                        <!--有数据-->
+                        <div class="M-xiaoxi-cont">
+                            <!--系统消息-->
+                            {{if system!=undefined}}
+                            <div class="M-xiaoxi-xitong">
+                                <dl>
+                                    <dt>系统消息<em>系统</em></dt>
+                                    {{each system as m i}}
+                                    <dd><span>{{m.mess}}</span><a href="/PublicNew/AccountCenter.aspx?mainFrame=/SystemMessage/MessageList.aspx?num=1"  class="look"  >查看</a></dd>
+                                    {{/each}}
+                                </dl>
+                            </div>
+                            {{/if}}
+                            <!--订单消息-->
+                            {{if order!=undefined}}
+                            <div class="M-xiaoxi-dingdan">
+                                <dl>
+                                    <dt>订单提醒<em>交易</em></dt>
+                                    {{each order as m i}}
+                                    <dd><span>{{m.mess}}</span><a href="javascript:void(0);"  class="look" onClick="viewMessage({{m.id}},'{{m.link}}',this)">查看</a></dd>
+                                    {{/each}}
+                                </dl>
+                            </div>
+                            {{/if}}
+
+                             <!--订单评价-->
+                            {{if rate!=undefined}}
+                            <div class="M-xiaoxi-pingjia">
+                                <dl class="clearfix">
+                                    <dt>订单评价<em>评价</em></dt>
+                                    {{each rate.list as r}}
+                                    <dd>
+                                    {{each r.items as m}}
+                                    <a href="//www.2298.com/SellerNew/RateOrder.aspx?OrderNum={{r.orderId}}" title="{{m.title}}" target="_blank"><img src="{{m.img}}" alt="70*70"></a>
+                                    {{/each}}
+                                    </dd>
+                                    {{/each}}
+                                    <dd class="more">
+                                        <p>您有<b>{{rate.count}}</b>笔订单未评价</p>
+                                        <a href="/PublicNew/AccountCenter.aspx?mainFrame=/SellerNew/OrderList.aspx?orderstatus=4&selRate=1">去看看</a>
+                                    </dd>
+                                </dl>
+                            </div>
+                            {{/if}}
+
+                         </div>
+
+</script>
+<script id="topLoginInfo-l" type="text/html">
+<li>Hi,<a rel="nofollow" href="//www.2298.com/PublicNew/AccountCenter.aspx"
+                class="SiteNav-name h" target="_blank">{{name}}</a></li>
+            <li><a rel="nofollow" href="//www.2298.com/LogOut.aspx">退出</a></li>
+            <li>
+                <!--系统消息提示-->
+                <div class="Meua">
+                    <div class="Meua-hd Meua-hd-xiaoxi">
+                        <a href="/PublicNew/AccountCenter.aspx?mainFrame=/SystemMessage/MessageList.aspx"
+                            rel="nofollow" target="_self"><i class="icon-youxiang01"></i>消息<span class="msg" style="display:none;">0</span></a></div>
+                    <div class="Meua-bd shadow Meua-bd-xiaoxi">
+                        <div class="M-xiaoxi-title">
+                            未读新消息<i class="icon-gouxuan" title="已读" style="cursor: pointer;"></i></div>
+                        <!--无数据-->
+                        <div class="M-xiaoxin-contnone">
+                            <img src="/skin2015/images/qh-shoplist-info-no-goods.png" width="250" alt="暂无新消息">
+                            暂无新消息
+                        </div>
+                        <div class="M-xiaoxi-foot">
+                            <a href="/PublicNew/AccountCenter.aspx?mainFrame=/SystemMessage/MessageList.aspx"
+                                rel="nofollow" target="_self">查看全部</a></div>
+                    </div>
+                </div>
+            </li>
+            <li><a href='/PublicNew/AccountCenter.aspx?mainFrame=/PublicNew/ChatMessagesNew.aspx'>聊天记录</a></li>
+            <li>
+                <div class="Meua app-hdown">
+                    <div class="Meua-hd"><a rel="nofollow" href="/APP/buy.html" target="_blank"><i class="icon-mobile-1"></i>手机逛前后</a></div>
+                    <div class="Meua-bd">
+                        <div class="app-hdown-buy">
+                            <p>前后买家</p>
+                            <span class="appdown-buy"></span>
+                        </div>
+                        <div class="app-hdown-sell">
+                            <p>前后厂家</p>
+                            <span class="appdown-sell"></span>
+                        </div>
+                    </div>
+                </div>
+            </li>
+</script>
+<script id="topLoginInfo-r" type="text/html">
+<a href="/PublicNew/AccountCenter.aspx?mainFrame=/SellerNew/OrderList.aspx" target="_blank">已卖出的货品</a><a
+                                  href="/PublicNew/AccountCenter.aspx?mainFrame=/SellerNew/OrderList.aspx?orderstatus=1"
+                                  target="_blank"> 等待付款</a> <a href="/SellerNew/selectCategoryNew.aspx" target="_blank">发布商品</a>
+</script>
+<script type="text/javascript">
+    //头部全异步处理
+    function getLoginInfo(callback) {
+        $.post("/ajax/GetLoginInfo.ashx", {}, function (data) {
+
+            var jsonData = $.parseJSON(data);
+
+            //已登录
+            if (jsonData.IsLogin == "1") {
+                var html = template("topLoginInfo-l", jsonData);
+                var i = 0;
+                var j = 0;
+                $(".SiteNav-l").html(html);
+                
+                $(".SiteNav .SiteNav-l .Meua:first").bind("mouseenter", function () {
+                    //只加载一次
+                    if (i == 0) {
+                        loadSystemMessage();
+                        i = 1;
+                    }
+                }).bind("mouseleave", function () {
+                    $(this).removeClass("Meua-hover");
+                    $(this).find('.icon-angle-down').removeClass('icon-angle-up');
+                })
+                var obj = $(".SiteNav .SiteNav-r .Meua");
+                obj.bind("mouseenter", function () {
+                    //只加载一次
+                    if (j == 0 && obj.index(this) == 1) {
+                        loadCartShop();
+                        j = 1;
+                    }
+                }).bind("mouseleave", function () {
+                    $(this).removeClass("Meua-hover");
+                    $(this).find('.icon-angle-down').removeClass('icon-angle-up');
+                })
+                if (jsonData.IsSeller == "1") {
+                    $(".js-tInfo-r").html(template("topLoginInfo-r", jsonData));
+                    $(".js-showSeller").hide();
+                }
+                $(".icon-gouxuan").click(function () {
+                    $(".M-xiaoxi-cont").remove();
+                    $(".M-xiaoxin-contnone").show();
+                    $(".icon-gouxuan").hide();
+                    $(".Meua .msg").hide();
+                });
+                $.get("/ajax/NewtopNav.ashx", { type: "shopCarNew" }, function (data) {
+                    if (data != "error") {
+                        var jsonData = $.parseJSON(data);
+                        var num = parseInt(jsonData.tKuanNum, 10)
+                        if (num > 0) {//有记录
+                            $("#js-nav-shopcarnum").html(num);
+                        }
+                    }
+                });
+                $.get("/ajax/newtopnav.ashx", { type: "msg" }, function (data) {
+                    //            var jsondata = $.parsejson(data);
+                    $("#js-unreadnum").html(data.num);
+                }, "json");
+                //加载消息
+                //loadSystemMessage();
+                loadCount();
+            }
+            callback();
+        })
+    }
+    getLoginInfo(function () {
+        //顶部下拉交互
+        $(".Meua").hover(
+      function () {
+          $(this).addClass("Meua-hover");
+          $(this).find('.icon-angle-down').addClass('icon-angle-up');
+          $(this).find('.Meua-bd-car').find('.WB_arrow').find('span').css('color', '#f7f7f7');
+      },
+      function () {
+          $(this).removeClass("Meua-hover");
+          $(this).find('.icon-angle-down').removeClass('icon-angle-up');
+      });
+    });
+    //加载进货单
+    function loadCartShop() {
+        $.get("/ajax/NewtopNav.ashx", { type: "shopCarNew" }, function (data) {
+            if (data != "error") {
+                var jsonData = $.parseJSON(data);
+                var num = parseInt(jsonData.tKuanNum, 10)
+                if (num > 0) {//有记录
+                    //var html = template("topShopCar", jsonData);
+                    var html = loadShopCartHtml(jsonData);
+                    $("#js-nav-shopcar").html(html);
+                    $("#js-nav-shopcarnum").html(num);
+                }
+                else { //无记录
+                    var html = template("topshopCarNo", jsonData);
+                }
+            }
+        });
+    }
+    function loadShopCartHtml(jsonData) {
+        var result="";
+        result = "<div class=\"Mena-bd-panel-car newOrders-topPanel\"><h6>新加入的产品</h6>";
+        for(var i = 0; i < jsonData.tmpData.length;i++){
+            result+="<ul class=\"Mena-bd-goods\"><li>"
+            result += "<a href=\"//www.2298.com/Product/" + jsonData.tmpData[i].proID + ".html\" title=\"" + jsonData.tmpData[i].proName + "\" target=\"_blank\">";
+            result += "<img src=\"//img2.2298.com" + jsonData.tmpData[i].imgUrl + "_40x40.jpg\" alt=\"" + jsonData.tmpData[i].proName + "\"/></a></li>";
+            result += "<li><p><a href=\"//www.2298.com/Product/" + jsonData.tmpData[i].proID + ".html\"  target=\"_blank\">" + jsonData.tmpData[i].proName + "</a>";
+            var data = jsonData.tmpData[i].proJian.split(":");
+            if (data != null) {
+                result += "<span>" + data[0] + "</span><span>" + data[1] + "</span></p></li>";
+            }
+            result += "<li class=\"Mena-bd-gZuo\"><em>￥" + jsonData.tmpData[i].price + " x " + jsonData.tmpData[i].proKuan + "</em></li></ul>"
+    }
+        result+=" <div class=\"Mena-bd-gPrice\"><div class=\"Mena-bd-gLine clearfix\"><div class=\"fr\">共"+jsonData.tKuanNum+"款"+jsonData.tJianNum+"件</div><div class=\"clear\"></div></div>";
+        result += "<a href=\"//www.2298.com/ShoppingCar.html\" class=\"btn_orange\" target=\"_blank\">查看进货单</a></div></div>";
+        return result;                     
+    }
+    //先加载消息数量
+    function loadCount() {
+        $.get("/Systemmessage/Message.ashx", { type: "Notice" }, function (data) {
+            //            var jsondata = $.parsejson(data);
+            if (data.num > 0) {
+                $(".Meua .msg").html(data.num);
+                $(".Meua .msg").show();
+            }
+        }, "json");
+    }
+    //加载消息
+    function loadSystemMessage() {
+        $.get("/Systemmessage/Message.ashx", { type: "Notice" }, function (data) {
+            //            var jsondata = $.parsejson(data);
+            if (data.list != undefined) {
+                var html = template("topsystemMessage", data.list);
+                $(".M-xiaoxin-contnone").hide();
+                $(".M-xiaoxi-title").after(html);
+            }
+        }, "json");
+    }
+    // 查看消息
+    function viewMessage(MessId, url, obj) {
+        $.get("/SystemMessage/Message.ashx", { type: "View", id: MessId }, function (data) { });
+        $(obj).parent().remove();
+        $(".Meua .msg").html($(".Meua .msg").html() > 0 ? $(".Meua .msg").html() - 1 : 0);
+        if ($(".Meua .msg").html() == 0) {
+            $(".Meua .msg").hide();
+        }
+        window.open(url);
+    }
+    template.helper("attrpro", function (data, i) {
+        return data.split(":")[i];
+    });
+</script>
+
+<script type="text/javascript" src="/Scripts/NewTop.js?r=123"></script>
+<script type="text/javascript" src="/shop/js/zuiwo.js"></script>
+<script type="text/javascript" src="/skin2015/js/newmain.js"></script>
+<script type="text/javascript" src="/skin2015/js/qhmain.js?07288"></script>
+
+<!-- header end -->
+<!-- logo search-->
+
+<script type="text/javascript" src="/Skin2014/Scripts/main.js"></script>
+<script type="text/javascript" src="/Scripts/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="/Scripts/Search.js"></script>
+
+<!--site nav-->
+
+
+<!--site nav end-->
+
+<!--logo search-->
+
+<script type="text/javascript" src="/Skin2014/Scripts/main.js"></script>
+<script type="text/javascript" src="/Scripts/jquery.autocomplete.js"></script>
+<script type="text/javascript" src="/Scripts/Search.js"></script>
+<div class="qh-head-ward">
+<div class="qh-head">
+    <div class="qh-logo fl clearfix">
+		<h2>
+        <a href="//www.2298.com/" title="前店后厂-中国专业的零中间商服装批发市场" class="qhlogom"><img src="/skin2015/images/qhlogo.png" alt="前店后厂-中国专业的零中间批发平台电话：400-088-2298" /></a>
+        </h2>
+        <span class="qh-tel-m"></span>
+    </div>
+    <div class="qh-search fr">
+	    <form action="#" id="iiieuuiqkxk">
+	    <div class="qh-search-m clearfix">
+        	<div id="menuhover" class="qh-search-meua fl">
+	    		<ul id="Sul">
+	    			<li id="Sli1" class="selected"><a href="javascript:SelectLi(1)">商品</a></li>
+	    			
+	    			
+                    <li id="Sli4"><a href="javascript:SelectLi(4)">厂家</a></li>
+	    		</ul>
+	    		<div class="qh-search-tab-ico"><i class="ico-btm"></i></div>
+	    	</div>
+	        <div class="qh-seach-text fl">     
+                <input value="1" type="hidden" class="inputType" id="chooseTypeId">
+	            <input id="q_show" placeholder="搜女装试试" value="" x-webkit-speech="" autocomplete="off" maxlength="300">                 
+	        </div>
+	        <div class="qh-search-btn fr">
+	            <i class="icon-search"></i><input type="submit" id="btnSearch" value="搜索">
+	        </div>
+	        <!-- 下拉提示 -->
+	        <div class="qh-search-tip none" id="divTipaaa" style="display:none;">
+	            <ul>
+                    <li class="liss1" id="" val="女装" onclick="autocompletePublic.clickLi('q_showA0','#divTipaaa','q_show','liss1','liss2');" onmousemove="autocompletePublic.mousemove('q_showA0','#divTipaaa','liss2');">女装</li>
+                    <li class="liss1" id="" val="女装" onclick="autocompletePublic.clickLi('q_showA0','#divTipaaa','q_show','liss1','liss2');" onmousemove="autocompletePublic.mousemove('q_showA0','#divTipaaa','liss2');">女装</li>
+                </ul>
+	        </div>
+	    </div>
+	    </form>
+	    
+	    <!-- 搜索关键词 -->
+        <div id="UcDefaultTop_divSearchKey" class="qh-search-hotkeyword">
+        <em>热门搜索：</em>
+        
+        <a href="//nvz.2298.com/" target="_blank"  title="女装" >女装</a>
+        
+        <a href="//www.2298.com/kd54909.html" target="_blank"  title="呢大衣" style="color:#f40">呢大衣</a>
+        
+        <a href="//www.2298.com/tongzhuang/" target="_blank"  title="童装" >童装</a>
+        
+        <a href="//www.2298.com/category_100100.html" target="_blank"  title="男式羽绒服" style="color:#f40">男式羽绒服</a>
+        
+        <a href="//www.2298.com/kd566615.html" target="_blank"  title="手表" style="color:#f40">手表</a>
+        
+        </div>
+	    
+    </div>
+    <div class="default-oem"><a href="//www.2298.com/xunjia/" target="_blank">发布采购需求</a></div>
+
+    <div class="ewm-app-download fl">
+        <ul>
+			<li><span>厂家客户端</span></li>
+        </ul>
+    </div>
+    <div class="clear"></div>
+</div>
+</div>
+<script type="text/javascript">
+    $("#iiieuuiqkxk").submit(function () {
+        var str = stripscript($("#q_show").val());
+        if ($.trim) {
+            str = $.trim(str);
+        }
+        //        str = str.trim();
+        var sli = $("#Sul").children(".selected").attr("id");
+        if (str == "") {
+            $("#q_show").val('');
+        }
+        //var regex = new RegExp("\"", "g");
+        var url = '//www.2298.com/NewSearch_'+ str + '.html';
+        if (sli == "Sli4") {
+            if (str == "") { return false; }
+            var url = '//www.2298.com/ShopSearch_' + encodeURIComponent(str) + '.html';
+        }
+
+        $(this).attr("action", url);
+    });
+
+    function stripscript(s) {
+        var pattern = new RegExp("[`~!@#$^&*=|{}':;',\\[\\].<>/?~！@#￥%……&*——|{}【】.\\\\‘；：”“'。，、？+\"]")
+        var rs = "";
+        for (var i = 0; i < s.length; i++) {
+            rs = rs + s.substr(i, 1).replace(pattern, '');
+        }
+        return rs;
+    }
+
+    function Login(funstr) {
+        //funstr:登录成功后需要执行的方法,只需要传入方法名称即可
+        Api.userlogin("returnFun");
+    }
+
+    function returnFun(opt) {
+        Api.shuaxin();
+    }
+    //商品、厂家、店铺切换
+    function SelectLi(i) {
+        $("#Sul").children().each(function () {
+            $(this).removeClass("selected");
+        });
+        $("#Sli" + i).addClass("selected");
+        if (i == "4") {
+            $("#q_show").attr("placeholder", "搜厂家名称");
+        }
+        else if (i == "1") {
+            $("#q_show").attr("placeholder", "搜女装");
+        }
+        $("#menuhover").removeClass("qh-search-meua-hover");
+    }
+
+</script>
+
+
+<!--首页顶通-->
+<div class="qh-side-wrap">
+    <div class="qh-side clearfix">
+        <!--导航栏目-->
+        
+       <!--主导航栏目-->
+       <div class="qh-navs">
+            <div class="qh-navs-m clearfix">
+                <ul>
+                    <li class="active"><h2><a href="//www.2298.com/" title="首页">首页<span>HOME</span></a></h2></li>
+                    <li><h2><a href="//www.2298.com/yijianqipi/" title="一件起批">一件起批<span>ONE BATCH</span></a></h2></li>
+                    <li><h2><a href="//www.2298.com/youpinhui/" title="优品汇">优品汇<span>YOUPIN</span></a></h2></li>
+                    <li class="navs-large"><h2><a href="//www.2298.com/category_50000000.html" target="_blank" title="食品汇">食品汇<span>FOOD</span></a><i class="navs-icon navs-icon-news" title="新"></i></h2></li>
+                    <li class="line"></li>
+                    <li><h2><a href="//pp.2298.com/" target="_blank" title="品牌馆">品牌馆<span>BRAND</span></a></h2></li>
+                    <li class="line"></li>
+                    <li class="navs-large"><h2><a href="//pp.2298.com/LuxuryFashion.html" target="_blank" title="名品折扣">名品折扣<span>DISCOUNT</span></a><i class="navs-icon navs-icon-lshou" title="零售"></i></h2></li>
+                    <li class="navs-large"><h2><a href="//pp.2298.com/haitaocheng/" target="_blank" title="海淘城">海淘城<span>SEA AMOY</span></a><i class="navs-icon navs-icon-lshou" title="零售"></i></h2></li>
+                    <li class="line"></li>
+                    <li><h2><a href="//brand.2298.com/" target="_blank" title="招商会">招商会<span>RECRUIT</span></a></h2></li>
+                    <!--<li><h2><a href="http://bbs.2298.com/" target="_blank" title="论坛">论坛<span>BBS</span></a></h2></li>-->
+                    <li><h2><a href="//www.2298.com/fengshangzhi/" target="_blank" title="风尚志">风尚志<span>FASHION</span></a></h2></li>
+                </ul>
+            </div>
+            
+        </div>
+
+        <!--次导航栏目/分类/统计-->
+        <div class="qh-navcategory">
+            <!--次导航栏目-->
+            <div class="qh-subnavs clearfix">
+                <!--首页-->
+                <ul class="qh-subnavs-index">
+                    <li><a href="//nvz.2298.com/">女装</a></li>
+                    <li><a href="//nz.2298.com/">男装</a></li>
+                    <li><a href="//www.2298.com/tongzhuang/">童装</a></li>
+                    <li><a href="//www.2298.com/xiangbao/">箱包</a></li>
+                    <li><a href="//www.2298.com/category_140000.html">眼镜及配件</a></li>
+                    <li><a href="//www.2298.com/category_160000.html">鞋帽</a></li>
+                    <li><a href="//www.2298.com/category_220000.html">运动户外</a></li>
+                    <li><a href="//www.2298.com/category_470000.html">汽车用品</a></li>
+                </ul>
+                <!--件起批-->
+                <ul class="qh-subnavs-yjqp">
+                    <li><a href="//www.2298.com/NewSearch-1___1___3___1___111300_.html">呢大衣女</a></li>
+                    <li><a href="//www.2298.com/NewSearch-1___1___3___1___100100_.html">羽绒服男</a></li>
+					<li><a href="//www.2298.com/NewSearch-1___1___3___1___185100_.html">儿童棉衣</a></li>
+                </ul>
+                <!--优品汇-->
+                <ul class="qh-subnavs-yph">
+                    <li><a href="//www.2298.com/youpinhui/#womon">女装</a></li>
+                    <li><a href="//www.2298.com/youpinhui/#man">男装</a></li>
+					<li><a href="//www.2298.com/youpinhui/#child">童装</a></li>
+					<li><a href="//www.2298.com/youpinhui/#xiemao">鞋帽</a></li>
+					<li><a href="//www.2298.com/youpinhui/#bags">箱包</a></li>
+					<li><a href="//www.2298.com/youpinhui/#qita">其它</a></li>
+                </ul>
+            </div>
+            <!--次导航栏目 end-->
+            <!--店铺商品统计-->
+            <div class="qh-shop-number">
+               
+            </div><!--店铺商品统计 end-->
+            
+        </div><!--次导航栏目/分类/统计 end-->
+
+        <script >
+            $(document).ready(function () {
+                //统计数据
+                function LoadCount() {
+                    $.ajax("/Handler/BuyerIndex.ashx?action=GetCount", { cache: false, success: function (dat) {
+                        eval("var resultData=" + dat + ";");
+                        //店铺总数
+                        //    $("#litBuyerCount").html(resultData.ShopCount);
+                        //产品总数
+                        //    $("#litNewProductCount").html(resultData.ProductCount);
+                        var ht = $("#litNumber").html().replace(/{{ShopCount}}/, resultData.ShopCount).replace(/{{ProductCount}}/, resultData.ProductCount);
+                        $(".qh-shop-number").html(ht);
+                    }} );
+                }
+                LoadCount();
+            })
+            qhNavActive();
+        </script>
+		
+		<script id="litNumber" type="text/html"> 
+		<p><span>店</span><span>铺：</span><span><a href="//www.2298.com/moreShopDetail.aspx" target="_blank"><strong><label id="litBuyerCount" style="cursor:pointer;">{{ShopCount}}</label></strong></a></span><span>家</span>   <span>今</span><span>日</span><span>更</span><span>新</span><span>商</span><span>品：</span><span><strong><label id="litNewProductCount">{{ProductCount}}</label></strong><span></p>
+           
+		</script>
+ 
+        <!--7大分类-->
+        <div class="qh-category qh-category-active">
+ <!--qh-category-active 隐藏分类-->
+            <div class="qh-category-more">
+                <a href="//www.2298.com/Category.html" rel="nofollow" style="font-size:14px;font-weight:700;color:#fff;">
+                    <h2>所有分类</h2>
+                </a>
+                
+            </div>
+        </div>
+       
+        <!--7大分类 end-->
+    </div>
+</div>
+    <script type="text/javascript" src="/skin2015/js/qhmain.js"></script>
+
+<!-- logo search end -->
+    <div class="qh-news-top">
+    <!--include file="/SiteHtml/AdArticle/SpecialList.htm"-->
+        <div id="div_topmenu" class="qh-news-head"><ul><li><a href='//www.2298.com' class='news-mainnav' target='_blank'><i class='fz'></i>首页</a></li><li><a href='//www.2298.com/liuxing/' class='news-mainnav' target='_self'>时尚资讯</a><div class='news-subnav'><a href='//www.2298.com/liuxqs/' target='_self'>流行趋势</a><a href='//www.2298.com/shistt/' target='_self'>T台秀</a><a href='//www.2298.com/shisrw/' target='_self'>时尚人物</a><a href='//www.2298.com/mingxingjiepailm/' target='_self'>明星街拍</a><a href='//www.2298.com/shizhuangzhoulm/' target='_self'>时装周</a><a href='//www.2298.com/mingxinghunshazhao/' target='_self'>明星婚纱照</a></div></li><li><a href='//www.2298.com/yifudapei/' class='news-mainnav' target='_self'>服饰搭配</a><div class='news-subnav'><a href='//www.2298.com/peisdp/' target='_self'>配饰搭配</a><a href='//www.2298.com/nvzdp/' target='_self'>女装搭配</a><a href='//www.2298.com/nanzdp/' target='_self'>男装搭配</a><a href='//www.2298.com/xiebdp/' target='_self'>鞋包搭配</a><a href='//www.2298.com/shangyidp/' target='_self'>上衣搭配</a><a href='//www.2298.com/kuzidp/' target='_self'>裤子搭配</a><a href='//www.2298.com/xiezidapei/' target='_self'>鞋子搭配</a><a href='//www.2298.com/qunzidapei/' target='_self'>裙子搭配</a><a href='//www.2298.com/chunzhuangdapei/' target='_self'>春装搭配</a><a href='//www.2298.com/xiazhuangdapei/' target='_self'>夏装搭配</a><a href='//www.2298.com/taozdp/' target='_self'>套装搭配</a><a href='//www.2298.com/qiuzhuangdapei/' target='_self'>秋装搭配</a><a href='//www.2298.com/minzufushi/' target='_self'>民族服饰</a></div></li><li><a href='//www.2298.com/secaidp/' class='news-mainnav' target='_self'>色彩搭配</a><div class='news-subnav'><a href='//www.2298.com/jiuhongsedp/' target='_self'>酒红色搭配</a><a href='//www.2298.com/zisedp/' target='_self'>紫色搭配</a><a href='//www.2298.com/ziluolandp/' target='_self'>紫罗兰搭配</a><a href='//www.2298.com/ningmenghuangdp/' target='_self'>柠檬黄搭配</a><a href='//www.2298.com/lvsedp/' target='_self'>绿色搭配</a><a href='//www.2298.com/molvsedp/' target='_self'>墨绿色搭配</a><a href='//www.2298.com/heisedp/' target='_self'>黑色搭配</a><a href='//www.2298.com/baisedp/' target='_self'>白色搭配</a><a href='//www.2298.com/huisedp/' target='_self'>灰色搭配</a><a href='//www.2298.com/shenlansedp/' target='_self'>深蓝色搭配</a><a href='//www.2298.com/chengsedp/' target='_self'>橙色搭配</a><a href='//www.2298.com/hongsedp/' target='_self'>红色搭配</a><a href='//www.2298.com/meihongsedp/' target='_self'>玫红色搭配</a><a href='//www.2298.com/xiguahongdp/' target='_self'>西瓜红搭配</a><a href='//www.2298.com/tianlansedp/' target='_self'>天蓝色搭配</a><a href='//www.2298.com/kongquelandp/' target='_self'>孔雀蓝搭配</a><a href='//www.2298.com/zangqingsedp/' target='_self'>藏青色搭配</a><a href='//www.2298.com/kafeisedp/' target='_self'>咖啡色搭配</a><a href='//www.2298.com/kaqisedp/' target='_self'>卡其色搭配</a><a href='//www.2298.com/fensedp/' target='_self'>粉色搭配</a><a href='//www.2298.com/tuosedp/' target='_self'>驼色搭配</a><a href='//www.2298.com/zaohongdp/' target='_self'>枣红搭配</a><a href='//www.2298.com/huangsedp/' target='_self'>黄色搭配</a></div></li><li><a href='//www.2298.com/yuansudapei/' class='news-mainnav' target='_self'>元素搭配</a><div class='news-subnav'><a href='//www.2298.com/tiaowendapei/' target='_self'>条纹搭配</a><a href='//www.2298.com/qianniaogedapei/' target='_self'>千鸟格搭配</a><a href='//www.2298.com/suihuadapei/' target='_self'>碎花搭配</a><a href='//www.2298.com/baowendapei/' target='_self'>豹纹搭配</a><a href='//www.2298.com/banmawendapei/' target='_self'>斑马纹搭配</a><a href='//www.2298.com/gezidapei/' target='_self'>格子搭配</a><a href='//www.2298.com/liusudapei/' target='_self'>流苏搭配</a><a href='//www.2298.com/bodiandapei/' target='_self'>波点搭配</a><a href='//www.2298.com/yinhuadapei/' target='_self'>印花搭配</a></div></li><li><a href='//www.2298.com/shencaidp/' class='news-mainnav' target='_self'>身材搭配</a><div class='news-subnav'><a href='//www.2298.com/fusedapei/' target='_self'>肤色搭配</a><a href='//www.2298.com/jiankuandp/' target='_self'>肩宽搭配</a><a href='//www.2298.com/pangrendp/' target='_self'>胖人搭配</a><a href='//www.2298.com/aigezidp/' target='_self'>矮个子搭配</a><a href='//www.2298.com/tuicudapei/' target='_self'>腿型搭配</a><a href='//www.2298.com/shoubicudapei/' target='_self'>手臂粗搭配</a><a href='//www.2298.com/liandadapei/' target='_self'>脸型搭配</a><a href='//www.2298.com/Oxingshengcaidp/' target='_self'>苹果型O型身材搭配</a><a href='//www.2298.com/Axingshencaidp/' target='_self'>梨型A型身材搭配</a><a href='//www.2298.com/Vxingshencaidp/' target='_self'>草莓型V型身材搭配</a><a href='//www.2298.com/Hxingshencaidp/' target='_self'>甘蔗型H型身材搭配</a></div></li><li><a href='//www.2298.com/fenggedapei/' class='news-mainnav' target='_self'>风格搭配</a><div class='news-subnav'><a href='//www.2298.com/bopufeng/' target='_self'>波普风</a><a href='//www.2298.com/hanxihanfeng/' target='_self'>韩系韩风</a><a href='//www.2298.com/OLtongqin/' target='_self'>OL通勤</a><a href='//www.2298.com/weimeirixi/' target='_self'>唯美日系</a><a href='//www.2298.com/yapi/' target='_self'>雅痞</a><a href='//www.2298.com/shangwu/' target='_self'>商务</a><a href='//www.2298.com/heibaihui/' target='_self'>黑白灰</a><a href='//www.2298.com/oumeizhognxing/' target='_self'>欧美中性</a><a href='//www.2298.com/dushi/' target='_self'>都市风格</a><a href='//www.2298.com/xueyuanfeng/' target='_self'>学院风</a><a href='//www.2298.com/haijunfeng/' target='_self'>海军风</a><a href='//www.2298.com/yinglunfeng/' target='_self'>英伦风</a><a href='//www.2298.com/xiaoqingxin/' target='_self'>小清新</a><a href='//www.2298.com/sennvfeng/' target='_self'>森女风</a><a href='//www.2298.com/minzufeng/' target='_self'>民族风</a><a href='//www.2298.com/feizhuliu/' target='_self'>非主流</a><a href='//www.2298.com/xiha/' target='_self'>嘻哈</a><a href='//www.2298.com/xiuxian/' target='_self'>休闲风</a><a href='//www.2298.com/fugu/' target='_self'>复古风</a><a href='//www.2298.com/pengke/' target='_self'>朋克</a><a href='//www.2298.com/shunv/' target='_self'>淑女风</a></div></li><li><a href='//www.2298.com/renwudapei/' class='news-mainnav' target='_self'>人物搭配</a><div class='news-subnav'><a href='//www.2298.com/mingxingchuanda/' target='_self'>明星搭配</a><a href='//www.2298.com/zhiyerenchuanda/' target='_self'>职业人穿搭</a><a href='//www.2298.com/mengwachuanda/' target='_self'>童装搭配</a><a href='//www.2298.com/lamachuanda/' target='_self'>辣妈穿搭</a><a href='//www.2298.com/qinzizhuangchuanda/' target='_self'>亲子装穿搭</a><a href='//www.2298.com/zhognlaonianchuanda/' target='_self'>中老年穿搭</a></div></li></ul></div>  
+    </div>
+    <div class="qh-news-main clearfix">
+        <div class="qh-news-l fl">
+		<script type="text/javascript">
+		    /*文章列表页-顶部横幅*/
+		    var cpro_id = "u3137035";
+		</script>
+		<script type="text/javascript" src="//cpro.baidustatic.com/cpro/ui/c.js"></script>
+            <div class="mangps" style="">
+                <p>
+                    当前位置：<span><a href="//www.2298.com/">前店后厂</a></span>&gt;
+                    <a href='//www.2298.com/fenggedapei/'>风格搭配</a>
+                    <em><label id="labelArticleTitle"></label></em></p>
+            </div>
+            <h1>
+                风格搭配</h1>
+            <div id="div_newestArticle5" class="qh-news-fl fl"><ul><li><a href='//www.2298.com/Article/116929.html' target='_self' rel='nofollow'><img src='/UploadStorage/Upload/201611/f0667405714c46c39a3a8919eaad2071.jpg' alt='【个性搭配】彰显你的不同独特气质 这里的个性搭配你值得拥有' /><p style='overflow:hidden; white-space:nowrap; text-overflow:ellipsis;'>【个性搭配】彰显你的不同独特气质 这里的个性搭配你值得拥有</p></a></li><li><a href='//www.2298.com/Article/113987.html' target='_self' rel='nofollow'><img src='/UploadStorage/Upload/201512/c5463ad3cc4f4ac39c47fe9a80f7de00.jpg' alt='【韩系男生搭配】韩系男生怎么穿搭 学鹿晗穿搭大气时尚潮流' /><p style='overflow:hidden; white-space:nowrap; text-overflow:ellipsis;'>【韩系男生搭配】韩系男生怎么穿搭 学鹿晗穿搭大气时尚潮流</p></a></li><li><a href='//www.2298.com/Article/113084.html' target='_self' rel='nofollow'><img src='/UploadStorage/Upload/201511/da7ab4c4c7cd46b3a0dc9bbee0573082.jpg' alt='【技术型ol公司内部会议着装】职业人穿衣技巧之技术型ol公司内部会议着装 ' /><p style='overflow:hidden; white-space:nowrap; text-overflow:ellipsis;'>【技术型ol公司内部会议着装】职业人穿衣技巧之技术型ol公司内部会议着装 </p></a></li><li><a href='//www.2298.com/Article/116934.html' target='_self' rel='nofollow'><img src='/UploadStorage/Upload/201611/ea717ba2927142379f2daba7c895b658.jpg' alt='【时尚穿衣搭配】保暖又显瘦气质的时尚穿衣搭配技巧 尽显优雅知性' /><p style='overflow:hidden; white-space:nowrap; text-overflow:ellipsis;'>【时尚穿衣搭配】保暖又显瘦气质的时尚穿衣搭配技巧 尽显优雅知性</p></a></li><li><a href='//www.2298.com/Article/116930.html' target='_self' rel='nofollow'><img src='/UploadStorage/Upload/201611/11ed3c09bf6e4282863174bab6db4998.jpg' alt='【红黑搭配】红黑配色给人什么感觉 看红黑搭配给人的感觉超有范儿 ' /><p style='overflow:hidden; white-space:nowrap; text-overflow:ellipsis;'>【红黑搭配】红黑配色给人什么感觉 看红黑搭配给人的感觉超有范儿 </p></a></li></ul></div>
+            
+            <div class="qh-news-fr fr">
+                <ul id="div_articleList"><li><a href='//www.2298.com/Article/128429.html' target='_self'>【休闲搭配】休闲裤怎么搭配衣服？怎么搭配才好看</a></li><li><a href='//www.2298.com/Article/128114.html' target='_self'>【休闲夹克衫】休闲夹克衫搭配什么裤子适合</a></li><li><a href='//www.2298.com/Article/126211.html' target='_self'>【复古风】复古风来袭，你准备好了吗？</a></li><li><a href='//www.2298.com/Article/123899.html' target='_self'>【欧美范穿搭】冬天街头搭配  怎么穿搭欧美范</a></li><li><a href='//www.2298.com/Article/123818.html' target='_self'>【欧美风】欧美风格的服装搭配  怎么搭配出酷帅的机车范</a></li><li><a href='//www.2298.com/Article/122952.html' target='_self'>【休闲穿搭】肉色休闲裤配什么上衣合适</a></li><li><a href='//www.2298.com/Article/122907.html' target='_self'>【休闲搭配】穿休闲鞋可以和什么服装搭配</a></li><li><a href='//www.2298.com/Article/122599.html' target='_self'>【英伦风】男士秋冬英伦风怎么搭配？</a></li><li><a href='//www.2298.com/Article/121158.html' target='_self'>【休闲外套】男士休闲外套搭配技巧 如何搭配</a></li><li><a href='//www.2298.com/Article/120406.html' target='_self'>【森系穿搭】森林系穿搭推荐  不给自己种草吗</a></li><li><a href='//www.2298.com/Article/120265.html' target='_self'>【韩式慵懒风穿搭】韩式慵懒风穿搭 减龄显活力</a></li><li><a href='//www.2298.com/Article/120253.html' target='_self'>【软萌韩风】很“大”的冬季搭配 教你怎么搭软萌韩风</a></li><li><a href='//www.2298.com/Article/120249.html' target='_self'>【日系原宿风】很潮又很复古的日系原宿风如何搭配</a></li><li><a href='//www.2298.com/Article/120246.html' target='_self'>【冬季日式搭配】冬季日式搭配图片  日式名媛搭配</a></li><li><a href='//www.2298.com/Article/120245.html' target='_self'>【2018最新日式搭配】2018最新日式名媛穿衣搭配示范 冬季穿搭技巧</a></li><li><a href='//www.2298.com/Article/116929.html' target='_self'>【个性搭配】彰显你的不同独特气质 这里的个性搭配你值得拥有</a></li><li><a href='//www.2298.com/Article/120059.html' target='_self'>【欧美初秋街拍】欧美初秋街拍 加足你的初秋时髦指数</a></li><li><a href='//www.2298.com/Article/113987.html' target='_self'>【韩系男生搭配】韩系男生怎么穿搭 学鹿晗穿搭大气时尚潮流</a></li><li><a href='//www.2298.com/Article/119875.html' target='_self'>【森女系】森女系搭配，冬季如何穿搭</a></li><li><a href='//www.2298.com/Article/119723.html' target='_self'>【军装风格】军装风格风格外套怎么搭配，军装如何搭配好看</a></li><li><a href='//www.2298.com/Article/118758.html' target='_self'>【风格比较】欧美风，日系，韩系的衣服区别是什么？ </a></li><li><a href='//www.2298.com/Article/118757.html' target='_self'>【韩系韩风】韩风搭配与日系搭配最根本的区别在哪</a></li><li><a href='//www.2298.com/Article/118755.html' target='_self'>【波普风】波普运动和波普风格</a></li><li><a href='//www.2298.com/Article/118753.html' target='_self'>【波普风】波普风是什么？</a></li><li><a href='//www.2298.com/Article/118731.html' target='_self'>【小清新】怎么样才能的搭出小清新的感觉</a></li><li><a href='//www.2298.com/Article/118730.html' target='_self'>【小清新】小清新选择什么颜色最好</a></li><li><a href='//www.2298.com/Article/113084.html' target='_self'>【技术型ol公司内部会议着装】职业人穿衣技巧之技术型ol公司内部会议着装 </a></li><li><a href='//www.2298.com/Article/116934.html' target='_self'>【时尚穿衣搭配】保暖又显瘦气质的时尚穿衣搭配技巧 尽显优雅知性</a></li><li><a href='//www.2298.com/Article/116930.html' target='_self'>【红黑搭配】红黑配色给人什么感觉 看红黑搭配给人的感觉超有范儿 </a></li><li><a href='//www.2298.com/Article/116627.html' target='_self'>【继承者们同款衣服】继承者同款，土豪长腿来袭时尚逼人</a></li><li><a href='//www.2298.com/Article/116596.html' target='_self'>【韩剧同款衣服】韩剧又掀新热潮 剧中同款成爆款</a></li><li><a href='//www.2298.com/Article/116587.html' target='_self'>【韩剧同款外套】流行韩剧外套 送给爱时尚的你</a></li><li><a href='//www.2298.com/Article/113379.html' target='_self'>【OL风A字裙怎么穿出公主风】OL风A字裙怎么穿出公主风 完胜各路明星</a></li><li><a href='//www.2298.com/Article/113539.html' target='_self'>【欧美条纹阔腿裤如何搭配】上衣 条纹阔腿裤让你穿出时尚欧美范</a></li><li><a href='//www.2298.com/Article/113909.html' target='_self'>【波普风短裙】今年流行活力波普风  开启今夏百变波普女郎</a></li></ul>
+                <div id="divPage" class="pages1" style="text-align: right; width: 100%;  margin-top:20px;"><table style='width:100%;text-align:right;'><tr><td></td><td align='right' style='text-align:right;'><a href='javascript:void(0);' disabled='' rel='nofollow' id='pagetop' >首页</a><a href='javascript:void(0);' disabled='' rel='nofollow' id='pageprev' >上一页</a><a class='pages-current' rel='nofollow'>1</a><a href='javascript:void(0);' rel='nofollow' onclick='getArticlesByCategoryID_Special(1)' title='查看第2页'>2</a><a href='javascript:void(0);' rel='nofollow' onclick='getArticlesByCategoryID_Special(2)' title='查看第3页'>3</a><a href='javascript:void(0);' rel='nofollow' onclick='getArticlesByCategoryID_Special(3)' title='查看第4页'>4</a><a href='javascript:void(0);' rel='nofollow' onclick='getArticlesByCategoryID_Special(4)' title='查看第5页'>5</a><a href='javascript:void(0);' rel='nofollow' onclick='getArticlesByCategoryID_Special(5)' title='查看第6页'>6</a><a href='javascript:void(0);' rel='nofollow' onclick='getArticlesByCategoryID_Special(6)' title='查看第7页'>7</a><a href='javascript:void(0);' id='pagenext' rel='nofollow' onclick='getArticlesByCategoryID_Special(1)' title='查看下页第2'>下一页</a><a href='javascript:void(0);' id='pagelast' rel='nofollow' onclick='getArticlesByCategoryID_Special(9)' title='查看末页第10'>尾页</a><a href='javascript:void(0);'>共10页</a><td></tr></table></div>
+            </div>
+            
+        </div>
+        <div class="qh-news-r fr">
+            <div class="qh-news-rmzt">
+                <h2>
+                    热门专题推荐</h2>
+                <div id="div_someSpacial" class="manfr-img clearfix"><ul><li><a href='//www.2298.com/misedpzt/' target='_self' alt='米色配什么颜色'><img src='/UploadStorage/Upload/201509/31f72009953d494391cede39a528bd4b.jpg' alt='米色配什么颜色好看_米色搭配什么颜色好看-前店后厂' title='米色配什么颜色' alt='米色配什么颜色' /></a><P><a href='//www.2298.com/misedpzt/' target='_self' alt='米色配什么颜色'>米色配什么颜色</p></a></li><li><a href='//www.2298.com/hanbannanzhuangzt/' target='_self' alt='韩版男装'><img src='/UploadStorage/Upload/201603/9ff87d787b0c4ecc8f50649226ddf59c.jpg' alt='韩版男装_韩版男装搭配_韩国男装搭配技巧-前店后厂	' title='韩版男装' alt='韩版男装' /></a><P><a href='//www.2298.com/hanbannanzhuangzt/' target='_self' alt='韩版男装'>韩版男装</p></a></li><li><a href='//www.2298.com/jiankuandpzt/' target='_self' alt='肩宽的女生穿衣搭配'><img src='/UploadStorage/Upload/201501/67dc83a56c914923aadff8fff1bccf3e.jpg' alt='肩宽的女生穿衣搭配_肩宽穿什么衣服好看-前店后厂中国大型专业零中间商批发平台' title='肩宽的女生穿衣搭配' alt='肩宽的女生穿衣搭配' /></a><P><a href='//www.2298.com/jiankuandpzt/' target='_self' alt='肩宽的女生穿衣搭配'>肩宽的女生穿衣搭配</p></a></li><li><a href='//www.2298.com/qunzizt/' target='_self' alt='裙子'><img src='/UploadStorage/Upload/201604/f494245411624545bb9fbe8f26f0ddae.jpg' alt='裙子_女装裙子_裙子款式_韩版裙子-前店后厂' title='裙子' alt='裙子' /></a><P><a href='//www.2298.com/qunzizt/' target='_self' alt='裙子'>裙子</p></a></li></ul></div>
+                
+                 <h2>
+                    最新文章</h2>
+                <div id="div_newestArticles" class="manfr-nr"><ul><li><a href='//www.2298.com/Article/128501.html' target='_self'>【短裤搭配】短裤怎么穿好看 让你的夏季美丽又舒适</a></li><li><a href='//www.2298.com/Article/128499.html' target='_self'>【T恤搭配】T恤和什么裤子搭配更加的时尚</a></li><li><a href='//www.2298.com/Article/128498.html' target='_self'>【T恤搭配】夏季女生怎么穿搭T恤和短裤好看</a></li><li><a href='//www.2298.com/Article/128496.html' target='_self'>【夏装搭配】夏季上衣和裙子怎么穿好看</a></li><li><a href='//www.2298.com/Article/128494.html' target='_self'>【外套】推荐几款夏季实用性的外套</a></li><li><a href='//www.2298.com/Article/128493.html' target='_self'>【外套】夏季实用性外套有多好</a></li><li><a href='//www.2298.com/Article/128486.html' target='_self'>【夏季搭配】夏日彰显自己要怎么搭配</a></li><li><a href='//www.2298.com/Article/128483.html' target='_self'>【蕾丝】夏季就尽情展现蕾丝的美好吧</a></li></ul></div>
+            </div>
+			
+			<script type="text/javascript">
+			    /*文章列表页-右侧*/
+			    var cpro_id = "u3137022";
+			</script>
+			<script type="text/javascript" src="//cpro.baidustatic.com/cpro/ui/c.js"></script>
+
+
+            <div class="qh-news-rmzt fl">
+                <h2>
+                    产品推荐</h2>
+                <div id="div_productsOfArticle" class="manfr-img"><ul><li><a href='//www.2298.com/Product/2441026.html' target='_blank'>   <img src='/UploadStorage/gallery/img1/309137/201805/ca7f7510d2f7414b947c0ad4c1782925.jpg' title='JOOBOX时尚休闲裤潮流个性印花哈伦裤束脚裤百搭九分裤系绳松紧运动裤' alt='JOOBOX时尚休闲裤潮流个性印花哈伦裤束脚裤百搭九分裤系绳松紧运动裤'/>   <p>JOOBOX时尚休闲裤潮流个性印花哈伦裤束脚裤百搭九分裤系绳松紧运动裤</p></a></li><li><a href='//www.2298.com/Product/2457085.html' target='_blank'>   <img src='/UploadStorage/gallery/img1/304520/201805/c346801773d043539330d01a33ef2180.jpg' title='夏阔腿高腰a字毛边五分显瘦牛仔裤复古chic潮宽松显瘦中裤女' alt='夏阔腿高腰a字毛边五分显瘦牛仔裤复古chic潮宽松显瘦中裤女'/>   <p>夏阔腿高腰a字毛边五分显瘦牛仔裤复古chic潮宽松显瘦中裤女</p></a></li><li><a href='//www.2298.com/Product/2441031.html' target='_blank'>   <img src='/UploadStorage/gallery/img1/309137/201805/02ad74215af748d4b268bd6083e673d9.jpg' title='JOOBOX2018新款条纹休闲裤潮流哈伦裤青年宽松运动裤男九分裤' alt='JOOBOX2018新款条纹休闲裤潮流哈伦裤青年宽松运动裤男九分裤'/>   <p>JOOBOX2018新款条纹休闲裤潮流哈伦裤青年宽松运动裤男九分裤</p></a></li><li><a href='//www.2298.com/Product/2457082.html' target='_blank'>   <img src='/UploadStorage/201805/18/4d37ba8b7f0b46809c51dba319fa34ea.jpg' title='夏季新款柔软透气斜纹波点修身百褶裙' alt='夏季新款柔软透气斜纹波点修身百褶裙'/>   <p>夏季新款柔软透气斜纹波点修身百褶裙</p></a></li><li><a href='//www.2298.com/Product/2441021.html' target='_blank'>   <img src='/UploadStorage/gallery/img1/309137/201805/6d06e1ffaf9d4f208e2a36cfd6a2e46d.jpg' title='JOOBOX新款大口袋哈伦裤学生百搭小脚裤束脚裤时尚休闲运动裤九分裤' alt='JOOBOX新款大口袋哈伦裤学生百搭小脚裤束脚裤时尚休闲运动裤九分裤'/>   <p>JOOBOX新款大口袋哈伦裤学生百搭小脚裤束脚裤时尚休闲运动裤九分裤</p></a></li><li><a href='//www.2298.com/Product/2452138.html' target='_blank'>   <img src='/UploadStorage/gallery/img1/315905/201805/e850376e03284864a466a61277cb1234.jpg' title='2018新款冬季雪尼尔料毛衣套头圆领短款韩版百搭宽松休闲长袖女装' alt='2018新款冬季雪尼尔料毛衣套头圆领短款韩版百搭宽松休闲长袖女装'/>   <p>2018新款冬季雪尼尔料毛衣套头圆领短款韩版百搭宽松休闲长袖女装</p></a></li></ul></div>
+            </div>
+            <div class="man_weibo">
+                <div class="weibo_title">
+                    <i class="icon_weibo"></i>
+                    <p>
+                        <b>官方微博</b><br>
+                        <a href="http://weibo.com/qianhoukeji" target="_blank" rel='nofollow'>@前店后厂批发平台</a><a href="http://weibo.com/qianhoukeji"
+                            target="_blank" class="man_gunzhu" rel='nofollow'>欢迎关注</a></p>
+                    <a href="http://weibo.com/qianhoukeji" target="_blank" class="" rel='nofollow'><i class="icon_arrow">
+                    </i></a>
+                </div>
+                <div class="topics">
+                    <img src="//www.2298.com/images/weibo.jpg" />
+                    <strong>最新时尚资讯<br>
+                        一手货源信息</strong>
+                    <div class="clear">
+                    </div>
+                </div>
+            </div>
+			
+			
+        </div>
+    </div>
+	
+	<div style="margin:10px auto;width:1024px;">
+		<script type="text/javascript">
+		    /*文章列表页-底部*/
+		    var cpro_id = "u3137041";
+		</script>
+		<script type="text/javascript" src="//cpro.baidustatic.com/cpro/ui/c.js"></script>
+	</div>
+	
+    <div id="div_bottlinks1" class="qh-news-end" style=" margin-bottom:-1px;"><ul><li>相关专题：</li><li><a href='//www.2298.com/hanbannvzhuangdapeizt/' target='_blank'>韩版女装搭配</a></li></ul></div>
+    <div id="div_bottlinks2" class="qh-news-end" style="margin-top:-1px;"><ul><li>相关栏目：</li><li><a href='//www.2298.com/xinxizixun/' target='_blank'>信息资讯</a></li><li><a href='//www.2298.com/caifugushi/' target='_blank'>财富故事</a></li><li><a href='//www.2298.com/gongsizixun/' target='_blank'>公司资讯</a></li><li><a href='//www.2298.com/pingtaigonggao/' target='_blank'>平台公告</a></li><li><a href='//www.2298.com/liuxing/' target='_blank'>时尚资讯</a></li><li><a href='//www.2298.com/guanliyingxiao/' target='_blank'>管理营销</a></li><li><a href='//www.2298.com/shichangshuju/' target='_blank'>市场数据</a></li><li><a href='//www.2298.com/shouyepindao/' target='_blank'>首页频道</a></li><li><a href='//www.2298.com/yifudapei/' target='_blank'>服饰搭配</a></li><li><a href='//www.2298.com/kaidianbaike/' target='_blank'>开店百科</a></li><li><a href='//www.2298.com/fuzbk/' target='_blank'>服装百科</a></li><li><a href='//www.2298.com/yifuxidi/' target='_blank'>服装洗涤</a></li><li><a href='//www.2298.com/secaidp/' target='_blank'>色彩搭配</a></li><li><a href='//www.2298.com/shencaidp/' target='_blank'>身材搭配</a></li><li><a href='//www.2298.com/yuansudapei/' target='_blank'>元素搭配</a></li><li><a href='//www.2298.com/fenggedapei/' target='_blank'>风格搭配</a></li><li><a href='//www.2298.com/renwudapei/' target='_blank'>人物搭配</a></li><li><a href='//www.2298.com/danpintuijianlm/' target='_blank'>单品推荐</a></li></ul></div>
+    <div id="div_friendlyLinks" class="qh-news-end" style="margin-top:-1px;"><ul><li>友情链接：</li></ul></div>
+    <div id="TEST" style=" display:none; margin-top:20px; ">
+        <input type="button" value="test" onclick="testJSON();" style="margin-left:500px; margin-bottom:10px;" /><br />
+        <textarea style="width:1000px;height:300px;" id="myjson"></textarea>
+    </div>
+    
+<div class="footer">
+    <div class="foot_box foot_app">
+        <div class="layout clearfix">
+            <div class="foot_ser fl">
+                <dl class="foot_ser_li">
+                    <dt><i class="sl_icon "></i><a href="javascript:void(0);" rel="nofollow">新手指南</a></dt>
+                    <dd><a href="//help.2298.com/2298_FAQ_show-211.html" target="_blank" rel="nofollow">注册新用户</a></dd>
+                    <dd><a href="//help.2298.com/2298_FAQ_show-214.html" target="_blank" rel="nofollow">账号密码</a></dd>
+                    <dd><a href="//help.2298.com/2298_seller.html" target="_blank" rel="nofollow">卖家入门</a></dd>
+                    <dd><a href="//help.2298.com/2298_buyer" target="_blank" rel="nofollow">买家入门</a></dd>
+
+                </dl>
+                <dl class="foot_ser_li">
+                    <dt><i class="sl_icon shop"></i><a href="javascript:void(0);">店铺买家服务</a></dt>
+                    <dd><a href="//help.2298.com/2298_buyer_list-117-1.html" target="_blank" rel="nofollow">找产品</a></dd>
+                    <dd><a href="//help.2298.com/2298_buyer_list-118-1.html" target="_blank" rel="nofollow">购买产品</a></dd>
+                    <dd><a href="//help.2298.com/2298_buyer_list-119-1.html" target="_blank" rel="nofollow">确认收货</a></dd>
+                    <dd><a href="//www.2298.com/join.aspx" target="_blank" rel="nofollow">服装店加盟</a></dd>
+                    <dd><a href="//www.2298.com/category-0_0__-1_0_0_0_0__0__-1_0_1.html" target="_blank" rel="nofollow">服装店货源</a></dd>
+
+                </dl>
+                <dl class="foot_ser_li">
+                    <dt><i class="sl_icon fact"></i><a href="javascript:void(0);" rel="nofollow">厂家卖家服务</a></dt>
+                    <dd><a href="//help.2298.com/2298_seller_list-121-1.html" target="_blank" rel="nofollow">商品管理</a></dd>
+                    <dd><a href="//help.2298.com/2298_seller_list-124-1.html" target="_blank" rel="nofollow">展厅设置</a></dd>
+                    <dd><a href="//help.2298.com/2298_FAQ_list-125-1.html" target="_blank" rel="nofollow">权限设置</a></dd>
+                </dl>
+                <dl class="foot_ser_li">
+                    <dt><i class="sl_icon save"></i><a href="javascript:void(0);" rel="nofollow">交易安全</a></dt>
+                    <dd><a href="//help.2298.com/2298_FAQ_list-129-1.html" target="_blank" rel="nofollow">安全关注</a></dd>
+                    <dd><a href="//help.2298.com/2298_FAQ_list-130-1.html" target="_blank" rel="nofollow">交易纠纷</a></dd>
+                    <dd><a href="//help.2298.com/2298_FAQ_list-131-1.html" target="_blank"  rel="nofollow">投诉举报</a></dd>
+                    <dd><a href="//pay.2298.com"  target="_blank" rel="nofollow">安汇通结算服务</a></dd>
+
+                </dl>
+                <dl class="foot_ser_li">
+                    <dt><i class="sl_icon online"></i><a href="javascript:void(0);" rel="nofollow">在线服务</a></dt>
+                    <dd><a href="mailto:service@2298.com" rel="nofollow">投诉与建议</a></dd>
+                    <dd><a href="http://bbs.2298.com" target="_blank"  rel="nofollow">前后论坛</a></dd>
+                </dl>
+            </div>
+            <div class="foot_weixin fr">
+                <dl class="foot_weixin_li borR">
+                    <dt>前后买家客户端</dt>
+                    <dd><span class="appdown-buy"></span></dd>
+                </dl>
+                <dl class="foot_weixin_li borL">
+                    <dt>前后厂家客户端</dt>
+                    <dd><span class="appdown-sell"></span></dd>
+                </dl>
+                <dl class="foot_weixin_li borL">
+                    <dt>前后微信</dt>
+                    <dd><span class="appdown-weixin"></span></dd>
+                </dl>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+
+    <div class="foot_line">
+        <div class="layout clearfix">
+           <p><label>热门分类：</label>
+            
+            <a href="//www.2298.com/kd8631.html" target="_blank"  title="刺绣鞋垫" >刺绣鞋垫</a>
+            
+            <a href="//www.2298.com/kd899224.html" target="_blank"  title="瘦腿袜薄" >瘦腿袜薄</a>
+            
+            <a href="//www.2298.com/kd910171.html" target="_blank"  title="亮片懒人鞋" >亮片懒人鞋</a>
+            
+            <a href="//www.2298.com/kd925472.html" target="_blank"  title="流苏发饰" >流苏发饰</a>
+            
+            <a href="//www.2298.com/kd96362.html" target="_blank"  title="法式衬衫" >法式衬衫</a>
+            
+            <a href="//www.2298.com/kd2143172.html" target="_blank"  title="立体化妆包" >立体化妆包</a>
+            
+            <a href="//www.2298.com/kd97102.html" target="_blank"  title="白色唐装" >白色唐装</a>
+            
+            <a href="//www.2298.com/kd96400.html" target="_blank"  title="轻薄羽绒服" >轻薄羽绒服</a>
+            
+            <a href="//www.2298.com/kd99722.html" target="_blank"  title="中袖蕾丝衫" >中袖蕾丝衫</a>
+            
+            <a href="//www.2298.com/kd99868.html" target="_blank"  title="亚麻旗袍" >亚麻旗袍</a>
+            
+            <a href="//www.2298.com/kd2076646.html" target="_blank"  title="比基尼泳衣" >比基尼泳衣</a>
+            
+            <a href="//www.2298.com/city/10298.html" target="_blank"  title="上海羊毛衫" >上海羊毛衫</a>
+            
+            <a href="//www.2298.com/city/8692.html" target="_blank"  title="台州眼镜" >台州眼镜</a>
+            
+                
+            </p>
+            <p>
+                <label>热门服装款式：</label>
+                
+                 <a href="//www.2298.com/pic/74254.html" target="_blank"  title="时尚女装图片" >时尚女装图片</a>
+                
+                 <a href="//www.2298.com/pic/74306.html" target="_blank"  title="好看的情侣装图片" >好看的情侣装图片</a>
+                
+                 <a href="//www.2298.com/pic/74316.html" target="_blank"  title="女职业装图片" >女职业装图片</a>
+                
+                 <a href="//www.2298.com/pic/74363.html" target="_blank"  title="紧身裤图片" >紧身裤图片</a>
+                
+                 <a href="//www.2298.com/pic/74369.html" target="_blank"  title="低腰裤图片" >低腰裤图片</a>
+                
+                 <a href="//www.2298.com/pic/74375.html" target="_blank"  title="裤子图片" >裤子图片</a>
+                
+                 <a href="//www.2298.com/pic/74601.html" target="_blank"  title="高跟鞋子图片" >高跟鞋子图片</a>
+                
+                 <a href="//www.2298.com/pic/74617.html" target="_blank"  title="平底鞋图片" >平底鞋图片</a>
+                
+                 <a href="//www.2298.com/pic/74619.html" target="_blank"  title="北京布鞋图片" >北京布鞋图片</a>
+                
+                 <a href="//www.2298.com/pic/74652.html" target="_blank"  title="女鞋图片" >女鞋图片</a>
+                
+                 <a href="//www.2298.com/pic/74597.html" target="_blank"  title="鞋子图片" >鞋子图片</a>
+                
+                 <a href="//www.2298.com/city/4500.html" target="_blank"  title="浙江湖州童装" >浙江湖州童装</a>
+                
+            </p>
+        </div>
+    </div>
+
+    <div class="foot_bottom layout">
+    <p>
+        <a href="//help.2298.com/gy_show-167.html" target="_blank" title="前后科技公司简介">前后科技公司简介</a>丨<a href="//help.2298.com/gy_show-175.html" target="_blank" title="前店后厂模式与优势">前店后厂模式与优势</a>丨<a href="//help.2298.com/gy_show-178.html" target="_blank" title="前后科技股份公司大事记">前后科技股份公司大事记</a>丨<a href="//help.2298.com/gy_show-186.html" target="_blank" title="前后科技媒体报道">前后科技媒体报道</a>丨<a href="//help.2298.com/gy_show-170.html" target="_blank" title="前后科技股份公司文化">前后科技股份公司文化</a></p>
+    <p>
+        <a href="//help.2298.com/gy_show-167.html" rel="nofollow">关于前店后厂</a> | <a href="//www.2298.com/join.aspx" rel="nofollow">加盟方式</a> | <a href="//help.2298.com/gy_show-182.html" rel="nofollow">隐私条例</a> | <a href="//help.2298.com/gy_show-175.html" rel="nofollow">批发模式</a>|<a href="//help.2298.com/gy_show-176.html" rel="nofollow">平台优势</a> | <a href="//www.2298.com/links.aspx" target="_blank" rel="nofollow">友情链接</a> | <a href="//www.2298.com/sitemap.html">网站地图</a> | <a href="//www.2298.com/moreShopDetail.aspx">最新店铺</a> | <a href="//www.2298.com/join.aspx" rel="nofollow">加入我们</a> | <a href="//help.2298.com/gy_show-174.html" rel="nofollow">联系我们</a> | <a href="http://www.kuaidi100.com/" rel="nofollow">快递查询</a>
+    </p>
+    <p style="color:#666;">
+        <a href="//help.2298.com/gy_show-178.html" target="_blank">前后科技股份有限公司</a>　　增值电信业务经营许可证：浙B2-20110169ICP证书　　公安机关备案号：33100202000416　　<span style="font-family:tahoma;">©</span> 2010-2017 2298.COM 版权所有</p>
+    <div class="footer-main">
+        <a href="//www.2298.com/cmdAuthentication.aspx" target="_blank" rel="nofollow">
+            <img src="/skin2015/images/cmb.png"></a><a title="中国电子商务诚信单位" href="http://www.ectrustprc.org.cn/certificate.id/certificateb.php?id=20089901" rel="nofollow" target="_blank"><img src="//www.2298.com/images/bluelogo.gif" border="0"></a><a title="台州市公安局网络安全监察支队" href="http://www.tzga.gov.cn/wangjing/default.aspx" rel="nofollow" target="_blank"><img src="/skin2015/images/tz_wlbj.gif" border="0"></a> <a title="台州网警备案号:TZ00000000234" href="http://idinfo.zjaic.gov.cn/bscx.do?method=hddoc&amp;id=33100000000092" rel="nofollow" target="_blank">
+                            <img src="/skin2015/images/gongshan.gif" border="0"></a>
+    </div>
+    <div style="display: none;">
+       <script type="text/javascript">
+           var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+           document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F9f5dfe5de2393d254b0527c81e9b1bf9' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+    </div>
+</div>
+</div>
+<!--迷你快捷导航-->
+<div class="smallnav">
+    <div class="smallnav-kf">
+        <a href="http://tb.53kf.com/webCompany.php?arg=10129024&style=1" target="_blank" rel="nofollow" title="联系我们"><i class="qh-webkf"></i></a>
+    </div>
+    <div class="smallnav-title" title="联系客服"></div>
+    <ul>
+        <li><a href="//www.2298.com/ShoppingCar.html" title="进货单" target="_blank" rel="nofollow"><i class="iconfont">&#xe844;</i><strong>进货单</strong></a></li>
+        <li><a href="//www.2298.com/PublicNew/MyFavorite.aspx" title="收藏夹" target="_blank" rel="nofollow"><i class="iconfont">&#xe833;</i><strong>收藏夹</strong></a></li>
+    </ul>
+    <div class="smallnav-gotop" onclick="$('html,body').scrollTop(0)"><i class="qh-ico qh-ico-gotop"></i></div>
+</div><!--迷你快捷导航 end-->
+<link href="/skin2015/css/fontello.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="/Skin2014/Scripts/jquery.lazyload.js"></script>
+<script type="text/javascript">
+    $(function () {
+        $("img").lazyload({
+            effect: "fadeIn"
+        });
+        var url = 'http://www.2298.com/Article/ArticleList.aspx?CategoryId=140000';
+        if (url.indexOf("www.2298.com/Article") > -1) {
+            $("#hotCategory_1").attr("style", "display:block");
+        }
+        else if (url.indexOf(".2298.com/channel") > -1) {
+            $("#hotCategory_3").attr("style", "display:block");
+        }
+        else if (url.indexOf("www.2298.com/ProIndex") > -1) {
+            $("#hotCategory_2").attr("style", "display:block");
+        }
+
+
+    });
+
+    // ie7,6访问提示升级浏览器
+    $(document).ready(function () {
+
+
+        var panel = "<div class='bwVersion'>"
+				+ "<div class='bg'></div>"
+				+ "<div class='con'>"
+				+ "<a href='javascript:void(0)' class='close' id='bwClose'></a>"
+				+ "<div class='name'>hi,您当前的浏览器版本过低，可能存在安全风险，<br/>建议使用以下浏览器:</div>"
+				+ "<div class='download'>"
+				+ "<a href='//www.google.cn/intl/zh-CN/chrome/browser/desktop/?spm=a21bo.50862.20161112.1.CJxlf9' target='_blank' rel='nofollow' class='chrome'><i></i>谷歌浏览器</a>"
+				+ "<a href='http://se.360.cn/' target='_blank' rel='nofollow' class='b360'><i></i>360浏览器</a>"
+				+ "</div>"
+				+ "<div class='app'>"
+				+ "<div class='tip'>或直接用<strong>前店后厂APP浏览：</strong></div>"
+				+ "<div class='label'><img src='/images/browser/bwApp1.jpg'><img src='/images/browser/bwApp2.jpg'></div>"
+				+ "</div></div></div>";
+
+
+        var isIE = function (ver) {
+            var b = document.createElement('b')
+            b.innerHTML = '<!--[if IE ' + ver + ']><i></i><![endif]-->'
+            return b.getElementsByTagName('i').length === 1
+        }
+        if (isIE(6)) {
+            $('body').prepend(panel);
+        }
+        // ...
+        if (isIE(7)) {
+            // IE 9
+            $('body').prepend(panel);
+        }
+
+        $('#bwClose').click(function () {
+            $('.bwVersion').hide();
+        });
+
+
+    });
+</script>
+               
+
+    
+
+
+<script>
+    (function () {
+      	if("http:" == document.location.protocol)
+		{
+		    var bp = document.createElement('script');
+	        bp.src = '//push.zhanzhang.baidu.com/push.js';
+	        var s = document.getElementsByTagName("script")[0];
+	        s.parentNode.insertBefore(bp, s);
+		}
+    })();
+</script>
+
+    <script src="/Article/ajax/JS_For_ArticleList.js" type="text/javascript"></script>
+    
+    <script>
+        //页面分享 弹窗，在页面右侧
+        var thispathUrl = location.href;
+        //alert("path:" + thispathUrl);
+        window._bd_share_config = {
+            slide: [{
+                bdImg: 0,
+                bdPos: "right",
+                bdTop: 100
+            }],
+            common: {
+                bdText: '风格搭配_风格搭配案例搭配技巧方式-前店后厂',
+                bdDesc: '风格搭配_风格搭配案例搭配技巧方式-前店后厂',
+                bdUrl: thispathUrl,
+                bdPic: '/UploadStorage/Upload/201611/f0667405714c46c39a3a8919eaad2071.jpg_220x220.jpg',
+                bdMini: 2
+            }
+        }
+
+    //    with (document) 0[(getElementsByTagName('head')[0] || body).appendChild(createElement('script')).src = 'http://bdimg.share.baidu.com/static/api/js/share.js?cdnversion=' + ~(-new Date() / 36e5)];
+    </script>
+</body>
+</html>
